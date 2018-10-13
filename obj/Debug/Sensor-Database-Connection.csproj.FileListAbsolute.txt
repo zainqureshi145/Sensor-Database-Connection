@@ -1,0 +1,6 @@
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\bin\Debug\Sensor-Database-Connection.exe.config
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\obj\Debug\Sensor-Database-Connection.csprojResolveAssemblyReference.cache
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\bin\Debug\Sensor-Database-Connection.exe
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\bin\Debug\Sensor-Database-Connection.pdb
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\obj\Debug\Sensor-Database-Connection.exe
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\obj\Debug\Sensor-Database-Connection.pdb

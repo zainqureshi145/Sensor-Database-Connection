@@ -1,0 +1,12 @@
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\bin\Release\Sensor-Database-Connection.exe.config
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\bin\Release\Sensor-Database-Connection.exe
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\bin\Release\Sensor-Database-Connection.pdb
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\obj\Release\Sensor-Database-Connection.exe
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\obj\Release\Sensor-Database-Connection.pdb
+C:\Users\zeeshan\Desktop\Sensor-Database-Connection\Sensor-Database-Connection\obj\Release\Sensor-Database-Connection.csprojResolveAssemblyReference.cache
+C:\Users\zeeshan\Desktop\Arduino\Sensor-Database-Connection\Sensor-Database-Connection\bin\Release\Sensor-Database-Connection.exe.config
+C:\Users\zeeshan\Desktop\Arduino\Sensor-Database-Connection\Sensor-Database-Connection\obj\Release\Sensor-Database-Connection.exe
+C:\Users\zeeshan\Desktop\Arduino\Sensor-Database-Connection\Sensor-Database-Connection\obj\Release\Sensor-Database-Connection.pdb
+C:\Users\zeeshan\Desktop\Arduino\Sensor-Database-Connection\Sensor-Database-Connection\bin\Release\Sensor-Database-Connection.exe
+C:\Users\zeeshan\Desktop\Arduino\Sensor-Database-Connection\Sensor-Database-Connection\bin\Release\Sensor-Database-Connection.pdb
+C:\Users\zeeshan\Desktop\Arduino\Sensor-Database-Connection\Sensor-Database-Connection\obj\Release\Sensor-Database-Connection.csprojResolveAssemblyReference.cache
